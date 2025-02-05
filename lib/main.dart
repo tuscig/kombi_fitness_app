@@ -4,9 +4,6 @@ import 'workouts_page.dart';
 import 'progress_page.dart';
 import 'package:firebase_core/firebase_core.dart';
 
-// TODO: 1) Confirm these values match your Firebase project.
-//       2) Or optionally use the FlutterFire CLI to generate firebase_options.dart.
-
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
